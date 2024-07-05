@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/Lista/obj/Debug/net8.0/Lista.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Lista/obj/Debug/net8.0/Lista.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Lista/obj/Debug/net8.0/Lista.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Lista/obj/Debug/net8.0/Lista.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Lista/bin/Debug/net8.0/Lista
+/home/et12alumno/Escritorio/Lista/bin/Debug/net8.0/Lista.deps.json
+/home/et12alumno/Escritorio/Lista/bin/Debug/net8.0/Lista.runtimeconfig.json
+/home/et12alumno/Escritorio/Lista/bin/Debug/net8.0/Lista.dll
+/home/et12alumno/Escritorio/Lista/bin/Debug/net8.0/Lista.pdb
+/home/et12alumno/Escritorio/Lista/obj/Debug/net8.0/Lista.dll
+/home/et12alumno/Escritorio/Lista/obj/Debug/net8.0/refint/Lista.dll
+/home/et12alumno/Escritorio/Lista/obj/Debug/net8.0/Lista.pdb
+/home/et12alumno/Escritorio/Lista/obj/Debug/net8.0/Lista.genruntimeconfig.cache
+/home/et12alumno/Escritorio/Lista/obj/Debug/net8.0/ref/Lista.dll
